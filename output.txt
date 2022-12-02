@@ -1,5 +1,5 @@
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="es"><head profile="http://gmpg.org/xfn/11">
-	<title>The Confirmers - A. R. Ammons - My poetic side</title>
+	<title>Poets by letter &gt; My poetic side</title>
       
     <meta charset="utf-8"/>   
         
@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,700|Merriweather:400,400italic,700,700italic&display=swap" media="print" onload="this.media='all'" />
 	
         <link rel="stylesheet" media="all" href="//mypoeticside.com/wp-content/themes/poemas/assets/frontend/css/screen13.css" />
-	
+	<meta name="robots" content="noindex,follow">
 
 	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="//mypoeticside.com/feed" />
 	<link rel="alternate" type="text/xml" title="RSS .92" href="//mypoeticside.com/feed" />
@@ -228,96 +228,23 @@
 
 
 <div class="page">
-
-		<div id="header-post" class="bg-cover" style="background:url(//mypoeticside.com/wp-content/uploads/bg-poemas/bg-cover-general.jpg);background-size:cover;padding:10px 0 10px">
+<div id="header-post" class="header-post-border">
 			<div class="container">
-				<div class="post-autor"><div style="background:url(https://mypoeticside.com/wp-content/uploads/2014/09/AR.png);background-size: cover;width:120px;height:120px" alt="" /></div><h3 class="title-content">A. R. Ammons</h3>
-				</div>
-				<h2 class="title-poem">The Confirmers</h2>
+				
 			</div>
-		</div><div class="container">
-			<nav id="nav-post" class="clearfix">
-				<ul class="breadcrumbs left">
-					<li><a href="//mypoeticside.com/">Home</a><span>></span></li> 
-					<li><a href="https://mypoeticside.com/poets/a.-r.-ammons-poems">A. R. Ammons</a><span>></span></li>
-					<li>The Confirmers</li>
- 				</ul>
- 				<div class="right clearfix">
-	 				<ul class="share-buttons left">
-                        <li><a href="https://www.facebook.com/sharer/sharer.php?u=//mypoeticside.com/show-classic-poem-1152" target="_blank"><img src="//mypoeticside.com/wp-content/themes/poemas/images/fb-compartir.png"></a></li>
-	    				<li><a href="https://twitter.com/intent/tweet/?text=The+Confirmers&url=//mypoeticside.com/show-classic-poem-1152&via=my_poetic_side" target="_blank"><img src="//mypoeticside.com/wp-content/themes/poemas/images/tw-twittear.png"></a></li>
-		 			</ul>
-	 				<ul class="actions-post right">
-	 					<li><a href="#"><i class="icon-font" id="incfont">&nbsp;</i><span>+</span></a></li>
-	 					<li><a href="#"><i class="icon-font" id="decfont">&nbsp;</i><span>-</span></a></li></ul>
-	 			</div>
-			</nav>
-		</div>        
-        <a href="https://mypoeticside.com/show-classic-poem-1153" class="btn btn-next btn-blue"><i class="icon-right-open">&nbsp;</i><span>Next Poem&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></a><div id="wrap" class="wrap-poet">
-			<div class="container"><div class='anuncio'>
-<!-- /22357687369/MPS_top_ad -->
-<div id='div-gpt-ad-1621352706881-0'>
-  <script>
-  window.onload = function(){  
-    setTimeout(function() {
-    googletag.pubads().refresh();
-    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1621352706881-0'); });
-    }, 3000);
-    };    
-  </script>
+		</div>
+
+		<div id="wrap">
+			<div class="container">
+				<div id="content" class="content-full">
+
+<br /><center>[ <a href="//mypoeticside.com/a-browse">A</a> | <a href="//mypoeticside.com/b-browse">B</a> | <a href="//mypoeticside.com/c-browse">C</a> | <a href="//mypoeticside.com/d-browse">D</a> | <a href="//mypoeticside.com/e-browse">E</a> | <a href="//mypoeticside.com/f-browse">F</a> | <a href="//mypoeticside.com/g-browse">G</a> | <a href="//mypoeticside.com/h-browse">H</a> | <a href="//mypoeticside.com/i-browse">I</a> | <a href="//mypoeticside.com/j-browse">J</a> | <a href="//mypoeticside.com/k-browse">K</a> | <a href="//mypoeticside.com/l-browse">L</a> | <a href="//mypoeticside.com/m-browse">M</a> | <a href="//mypoeticside.com/n-browse">N</a> | <br /><a href="//mypoeticside.com/o-browse">O</a> | <a href="//mypoeticside.com/p-browse">P</a> | <a href="//mypoeticside.com/q-browse">Q</a> | <a href="//mypoeticside.com/r-browse">R</a> | <a href="//mypoeticside.com/s-browse">S</a> | <a href="//mypoeticside.com/t-browse">T</a> | <a href="//mypoeticside.com/u-browse">U</a> | <a href="//mypoeticside.com/v-browse">V</a> | <a href="//mypoeticside.com/w-browse">W</a> | <a href="//mypoeticside.com/x-browse">X</a> | <a href="//mypoeticside.com/y-browse">Y</a> | <a href="//mypoeticside.com/z-browse">Z</a> ]</center><br /><br /><h2 class="title-content">Browse by letter: Z</h2><br /><ul class="list-poems"><li><a href="https://mypoeticside.com/poets/zabel-asadour-poems">Zabel Asadour</a></li><li><a href="https://mypoeticside.com/poets/zoe-akins-poems">Zoë Akins</a></li><li><a href="https://mypoeticside.com/poets/zora-bernice-may-cross-poems">Zora Bernice May Cross</a></li></ul>			
 </div>
-</div>		<div id="content">
-
-
-
-					<div class="block-content block-poem-entry">
-						<div class="poem-entry" id="contentfont">
-							<p>The saints are gathering at the real<br />
-places, trying tough skin on sharp<br />
- conscience,<br />
-endurance in the hot spots-<br />
-searching out to define, come up<br />
-against, mouth<br />
-the bitterest bit:<br />
-you can hear them yelping<br />
-down in the dark greeny groves of<br />
- condemnation:<br />
-their lips slice back <br />
-with jittery suctions, cold<br />
-insweeps of conjured grief:<br />
-if they, footloose, wham up the<br />
-precise damnation,<br />
- consolation<br />
-may be more than us trudging<br />
-down from paunchy dinners,<br />
-swatting hallelujah arms at<br />
-dusk bugs and telling them pure<br />
-terror has obviously made them<br />
-earnest of mind and of motion lithe.</p>
-						</div>
-						<!--/poem-entry--><a href="https://mypoeticside.com/show-classic-poem-1153" class="btn btn-blue btn-lg btn-icon" style="display:block"><span>Next Poem</span><i class="icon-right-open">&nbsp;</i></a><br /><br /><a href="https://mypoeticside.com/poets/a.-r.-ammons-poems" class="btn btn-blue btn-lg btn-icon" style="display:block;"><i class="icon-left-open">&nbsp;</i><span>Back to A. R. Ammons</span></a></div>
-					<!--/block-content-->
-
-
-				</div>
-				<!--/content-->
-                <div id="sidebar" class="sidebar anuncio-poeta-inner"><!-- /22357687369/mps_sticky -->
-<div id='div-gpt-ad-1654917820764-0' style='min-width: 300px; min-height: 250px;'>
-  <script>
-    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1654917820764-0'); });
-  </script>
+    </div>
+    </div>
 </div>
-                </div>
-		<!--/wrap-->
-        
-        </div></div><div class='anuncio'>
-<!-- /22357687369/mps_2nd_ad -->
-<div id='div-gpt-ad-1654917470897-0' style='min-width: 300px; min-height: 90px;'>
-  <script>
-    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1654917470897-0'); });
-  </script>
-</div>
-</div>
+
+
 <div id="bottom" style="padding:0;"></div>
 	<div id="site-footer" style="padding-bottom:5px">
 		<div class="container">
@@ -351,7 +278,7 @@ earnest of mind and of motion lithe.</p>
 
 </body>
 </html>
-<!-- Dynamic page generated in 0.373 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2022-11-30 05:39:23 -->
+<!-- Dynamic page generated in 0.447 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2022-12-02 14:11:48 -->
 
 <!-- super cache -->
