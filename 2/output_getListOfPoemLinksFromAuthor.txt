@@ -1,5 +1,5 @@
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="es"><head profile="http://gmpg.org/xfn/11">
-	<title>Poets by letter &gt; My poetic side</title>
+	<title>Jónas Hallgrímsson Poems &gt; My poetic side</title>
       
     <meta charset="utf-8"/>   
         
@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,700|Merriweather:400,400italic,700,700italic&display=swap" media="print" onload="this.media='all'" />
 	
         <link rel="stylesheet" media="all" href="//mypoeticside.com/wp-content/themes/poemas/assets/frontend/css/screen13.css" />
-	<meta name="robots" content="noindex,follow">
+	<meta name="robots" content="NOODP, index, follow">
 
 	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="//mypoeticside.com/feed" />
 	<link rel="alternate" type="text/xml" title="RSS .92" href="//mypoeticside.com/feed" />
@@ -228,23 +228,146 @@
 
 
 <div class="page">
-<div id="header-post" class="header-post-border">
-			<div class="container">
-				
+
+		    
+    		
+
+<div id="header-post" class="bg-cover" style="background:url(//mypoeticside.com/wp-content/uploads/bg-poemas/bg-cover-general.jpg);background-size: cover;padding:35px 0 10px 0;">	
+
+<div class="container">
+
+	        
+                    <div class="post-autor">
+					<div style="background:url(https://mypoeticside.com/wp-content/uploads/2017/09/Jonash.jpg);background-size: cover;" alt="" /></div>
+					<h3 class="title-content">
+                    </h3>
+				</div>
+                
+                                     <div class="poet-data clearfix">
+                <h3 class="title-content">Jónas Hallgrímsson</h3></div>                
 			</div>
 		</div>
+		<div class="container">
+        
+        			<nav id="nav-post" class="clearfix">
+				<ul class="nav-scroll-to left">
+                
+                <li><a href="#block-poems" class="scroll-to">Poems</a></li><li><a href="#block-bio" class="scroll-to">Bio</a></li>					
+ 				</ul>
+                
+                
+                
+                
+                
+                <div class="right clearfix">
+	 				<ul class="share-buttons left">
+                        <li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmypoeticside.com%2Fpoets%2Fjonas-hallgrimsson-poems" target="_blank"><img src="//mypoeticside.com/wp-content/themes/poemas/images/fb-compartir.png"></a></li>
+	    				<li><a href="https://twitter.com/intent/tweet/?text=J%C3%B3nas+Hallgr%C3%ADmsson+Poems&url=https%3A%2F%2Fmypoeticside.com%2Fpoets%2Fjonas-hallgrimsson-poems&via=my_poetic_side" target="_blank"><img src="//mypoeticside.com/wp-content/themes/poemas/images/tw-twittear.png"></a></li>
+		 			</ul>			</nav>
+            
+            		</div>
 
-		<div id="wrap">
+		<div id="wrap" class="wrap-poet">
 			<div class="container">
+
 				<div id="content" class="content-full">
+                
 
-<br /><center>[ <a href="//mypoeticside.com/a-browse">A</a> | <a href="//mypoeticside.com/b-browse">B</a> | <a href="//mypoeticside.com/c-browse">C</a> | <a href="//mypoeticside.com/d-browse">D</a> | <a href="//mypoeticside.com/e-browse">E</a> | <a href="//mypoeticside.com/f-browse">F</a> | <a href="//mypoeticside.com/g-browse">G</a> | <a href="//mypoeticside.com/h-browse">H</a> | <a href="//mypoeticside.com/i-browse">I</a> | <a href="//mypoeticside.com/j-browse">J</a> | <a href="//mypoeticside.com/k-browse">K</a> | <a href="//mypoeticside.com/l-browse">L</a> | <a href="//mypoeticside.com/m-browse">M</a> | <a href="//mypoeticside.com/n-browse">N</a> | <br /><a href="//mypoeticside.com/o-browse">O</a> | <a href="//mypoeticside.com/p-browse">P</a> | <a href="//mypoeticside.com/q-browse">Q</a> | <a href="//mypoeticside.com/r-browse">R</a> | <a href="//mypoeticside.com/s-browse">S</a> | <a href="//mypoeticside.com/t-browse">T</a> | <a href="//mypoeticside.com/u-browse">U</a> | <a href="//mypoeticside.com/v-browse">V</a> | <a href="//mypoeticside.com/w-browse">W</a> | <a href="//mypoeticside.com/x-browse">X</a> | <a href="//mypoeticside.com/y-browse">Y</a> | <a href="//mypoeticside.com/z-browse">Z</a> ]</center><br /><br /><h2 class="title-content">Browse by letter: Z</h2><br /><ul class="list-poems"><li><a href="https://mypoeticside.com/poets/zabel-asadour-poems">Zabel Asadour</a></li><li><a href="https://mypoeticside.com/poets/zoe-akins-poems">Zoë Akins</a></li><li><a href="https://mypoeticside.com/poets/zora-bernice-may-cross-poems">Zora Bernice May Cross</a></li></ul>			
+<div class="anuncio">
+<!-- /22357687369/MPS_top_ad -->
+<div id='div-gpt-ad-1621352706881-0'>
+    <script>
+  window.onload = function(){  
+    setTimeout(function() {
+    googletag.pubads().refresh();
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1621352706881-0'); });
+    }, 2500);
+    };    
+  </script>
 </div>
-    </div>
-    </div>
 </div>
 
+<div id="block-poems" class="block-content">
+						<h2 class="title-content">Jónas Hallgrímsson Poems</h2>
+						
+                        <div class="container-list-poems-2">
+    <ul class="list-poems nuevolist orderprimero"><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12145">A Ship Comes In, 1830</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12140">A Toast to Iceland</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12121">Above the Ford</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12127">After the Ball</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12136">At an Old Grave, 1841</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12117">Ólafsvík Headland</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12120">Öxnadalur</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12133">Bjarni Thorarensen</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12132">Bjarni, Goodbye!</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12115">Drangey</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12105">Drudgery</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12110">Eagle Mountain Glacier</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12119">Feuerbach's Nihilism</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12143">Gunnar's Holm</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12118">Hell</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12104">Home</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12116">Horn Crag</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12126">I Send Greetings!</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12144">Iceland</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12124">Journey's End</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12114">Kolbeinn's Isle</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12113">Moon Island</a></li>
+            </ul>
+            <ul class="list-poems nuevolist  ordertercero"><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12137">Mount Broadshield (A travel poem from summer 1841)</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12129">Mowing Song</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12122">On New Year's Day (1845)</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12131">On Receiving News of the Death of S. Drejer, M.A.</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12123">Quatrains</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12111">Sheepfold Tarn</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12112">Southlands</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12106">Spring and Fall</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12139">Table Hymn</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12108">Tómas's Meadow</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12125">The Beast!</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12146">The Farmer in Wet Weather</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12138">The Lay of Hulda</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12130">The Pipit</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12109">The Sog</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12107">The Solitary</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12135">The Style of the Times</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12142">The Vastness of the Universe</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12141">To Mr. Paul Gaimard at a Banquet of Icelanders in Copenhagen</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12128">Valley Song</a></li><li><a rel="nofollow" href="//mypoeticside.com/show-classic-poem-12134">Water Music</a></li></ul>
+  <div class='anuncio-poeta ordermedio'>
+    <div class='anuncio-poeta-inner'>
+    
+    <!-- /22357687369/mps_sticky -->
+<div id='div-gpt-ad-1654917820764-0'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1654917820764-0'); });
+  </script>
+</div>
+    
+    </div>
+</div></div>
+    
+</div><div class='anuncio'>
+<!-- /22357687369/mps_2nd_ad -->
+<div id='div-gpt-ad-1654917470897-0'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1654917470897-0'); });
+  </script>
+</div>
+</div>
+  
+  
+  
+  </div><div id="block-bio" class="block-content clearfix" style="margin-top:35px">
+						<h2 class="title-content">Jónas Hallgrímsson Bio</h2>
+						<div class="post-entry">
+                        
+        <p><img decoding="async" class="alignright size-medium wp-image-11184" src="https://mypoeticside.com/wp-content/uploads/2017/09/Jonash-195x300.jpg" alt="" width="195" height="300" srcset="https://mypoeticside.com/wp-content/uploads/2017/09/Jonash-195x300.jpg 195w, https://mypoeticside.com/wp-content/uploads/2017/09/Jonash.jpg 325w" sizes="(max-width: 195px) 100vw, 195px" />Jónas Hallgrímsson, is one of the most well-known and respected Icelandic poets. He is considered to be one of the founding fathers of romanticism in Iceland. His poetry was heavily influenced by the iconic Icelandic scenery and he is accredited with introducing a number of foreign meters, including pentameters to Icelandic poetry. He was also an author and a naturalist, as well as being one of the founder of <em><u>Fjölnir</u></em>, the Icelandic journal that was used to invoke a sense of nationalism in the Icelandic people with the goal of inciting a level of resistance to Danish rule at the time.</p>
+<p>Born on 16<sup>th</sup> November 1807, in Öxnadalur in <a href="https://en.wikipedia.org/wiki/Eyjafj%C3%B6r%C3%B0ur">Eyjafjörður</a> in the north of Iceland, Jónas was the third of four children, in a family with a poetry background. At the age of nine he lost his father, who drowned in the lake, and was sent to live with his aunt. He returned to Öxnadalur in 1821 when he was confirmed. It is from here that he went away to school in Skagafjörður, following two years of study at the school under the Reverend Einar H. Thorlacius he won a scholarship for the school at Bessastaðir where he studied for a further six years. He passed his final exam in 1829 and moved to Reykjavík where he took up employment working as a clerk with the sheriff, he also worked as a defence lawyer during this time.</p>
+<p>In 1832 Jónas sailed to Denmark where he took and passed the entrance exam for the University of Copenhagen. He began work on a law degree but switched to literature and natural sciences, both subjects he was very good at, after four years. Whilst he was still at the university he co-founded <em>Fjölnir,</em> with a number of his fellow Icelandic students.</p>
+<p><em>Fjölnir,</em> was not only a very important publication when it came to the future of the sentiment of the Icelandic people, but it also here that Jónas published much of his own work, including what might be considered his most famous poem; the very popular and patriotic <em>Ísland. </em></p>
+<p><picture>
+  <source media="(max-width: 799px)" srcset="https://mypoeticside.com/wp-content/uploads/textimage/e7de4cce965a04527fea1c9b25e1a095_mobile.png">
+  <source media="(min-width: 800px)" srcset="https://mypoeticside.com/wp-content/uploads/textimage/e7de4cce965a04527fea1c9b25e1a095.png">
+  <!-- Fallback content -->
+  <img alt="poem" loading="lazy" src="https://mypoeticside.com/wp-content/uploads/textimage/e7de4cce965a04527fea1c9b25e1a095.png" class="textimage" style="padding:0">
 
+</picture></p>
+<p>Rather critical of the more artificial Rimur narrative poems that were so traditional at the time, Jónas attempted to purify the language used in poetry, in a similar way to that which William Wordsworth had achieved in England. His poetry has a lyrical quality and he is most remembered for his descriptions on the Icelandic scenery. He also adapted and translated a significant number of foreign poetry into Icelandic.</p>
+<p>At the age of just 37, in May 1845 Jónas, passed away from blood poisoning following a break to his leg. He was buried in Copenhagen, however in 1946, his bones were dug up and returned to Iceland. Following much controversy and the unwillingness of the church in Öxnadalur, the town of Jónas birth, his bones were finally laid to rest in a spot chosen by the government on the anniversary of his birth.</p>
+<p>Since 1996, 16<sup>th</sup> November, Jónas birthdate, has been celebrated as Icelandic Language Day.</p>
+<h1></h1>
+               </div>
+                            				
+						</div>         
+          
+	
+			
+
+		
+		
+			<!--
+			<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="https://mypoeticside.com/poets/jonas-hallgrimsson-poems"
+    dc:identifier="https://mypoeticside.com/poets/jonas-hallgrimsson-poems"
+    dc:title="Jónas Hallgrímsson Poems"
+    trackback:ping="https://mypoeticside.com/poets/jonas-hallgrimsson-poems/trackback" />
+</rdf:RDF>			-->
+            
+        
+                        
+						
+					</div>
+				</div>
+				<!--/content-->
+
+			</div>
+		</div>
+		<!--/wrap-->
+		
+				
 <div id="bottom" style="padding:0;"></div>
 	<div id="site-footer" style="padding-bottom:5px">
 		<div class="container">
@@ -273,12 +396,12 @@
 
     
     
-          
+    <script async type="text/javascript" src="https://mypoeticside.com/wp-content/themes/poemas/assets/vendor/js/jquery.fancybox.pack.min.js" defer></script><script type="text/javascript" src="https://mypoeticside.com/wp-content/themes/poemas/assets/frontend/js/lazy.js" defer></script>      
     <script type="text/javascript" src="https://mypoeticside.com/app-new-scroll-4.js" defer></script>
 
 </body>
 </html>
-<!-- Dynamic page generated in 0.447 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2022-12-02 14:11:48 -->
+<!-- Dynamic page generated in 0.453 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2022-12-02 14:48:01 -->
 
 <!-- super cache -->
