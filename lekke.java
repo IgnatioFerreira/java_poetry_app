@@ -13,7 +13,7 @@ public class lekke {
         // "i","isaac-watts", "Hymn 93");
 
 
-        for (char letter = 'i'; letter <= 'z'; letter++) {
+        for (char letter = 'j'; letter <= 'z'; letter++) {
         browseByLetterAndGetPoetLinks("https://mypoeticside.com/" + letter +
         "-browse");
         }
