@@ -40,13 +40,12 @@ import os
 
 import random
 ranint = random.randint(0,30246)
-print(ranint)
 i = 0
-rootdir = 'C:\\Users\\User\\java_poetry_app\\poems'
+rootdir = 'C:\\Poetry\\poems'
+print(ranint)
 for subdir, dirs, files in os.walk(rootdir):
     for file in files:
         i += 1
         if i == ranint:
-            print(os.path.join(subdir, file))
             with open(os.path.join(subdir, file), 'r') as f:
                 print(f.read())

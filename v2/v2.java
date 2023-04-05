@@ -102,37 +102,40 @@ public class v2 {
         int indexStart = content.indexOf("title-content\">");
         int indexEnd = content.indexOf("</h3>", indexStart);
         String poetName = content.substring(indexStart + 15, indexEnd);
-        System.out.println(poetName);
 
         indexStart = content.indexOf("class=\"title-poem\">");
         indexEnd = content.indexOf("</h2>", indexStart);
         String poemName = content.substring(indexStart + 19, indexEnd);
-        System.out.println(poemName);
-        System.out.println();
+
+        System.out.println(poetName + " - " + poemName + "<br />");
+        System.out.println("<br />");
 
         indexStart = content.indexOf("<p>", content.indexOf("class=\"poem-entry\""));
         indexEnd = content.indexOf("</p>", indexStart);
         String poem = content.substring(indexStart + 3, indexEnd);
-        poem = poem.replace("<br />", "");
+        // poem = poem.replace("<br />", "");
         System.out.println(poem);
     }
 
     public static void iteratePrint() throws IOException {
         File poemOutputLog = new File("v2\\poemOutputLog.txt");
-        
-        File file = new File("C:\\Users\\User\\java_poetry_app\\v2\\poems.txt");
+
+        File file = new File("C:\\Users\\User\\Desktop\\java_poetry_app\\v2\\poems.txt");
         Scanner sc = new Scanner(file);
-        
+
         int i = 0;
         String line = null;
         while (sc.hasNextLine()) {
             FileWriter fr = new FileWriter(poemOutputLog, true);
             fr.write(Integer.toString(i) + "\n");
-
-            line = sc.nextLine();
-            printPoem(line, i++);
-
             fr.close();
+            line = sc.nextLine();
+            if (i < 22630) {
+                i++;
+                continue;
+            } else {
+                printPoem(line, i++);
+            }
         }
         sc.close();
     }
