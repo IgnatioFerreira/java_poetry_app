@@ -7,9 +7,9 @@ This app primarily serves as a boost to my application to work for my church, wh
 This app served the twofold purpose of sharpening my java skills and exposing me to more poetry.  
 
 ## Basic instructions:
-Functional app is the v2.java
+Functional app is the v2.java  
 Use the different functions (get authors, get list of poems of the authors, save the poems) seperately and one at a time.
 
 ## Favorite poems I discored:
-Anna Laetitia Barbauld - A though on death
+Anna Laetitia Barbauld - A though on death  
 Zabel Asadour - Tears
